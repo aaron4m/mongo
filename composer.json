@@ -1,0 +1,18 @@
+{
+    "name": "aaron4m/zf2-mongo",
+    "description": "MongoDB Abstract based on zfCommons",
+    "keywords": [
+        "framework",
+        "zf2",
+        "mongo",
+        "mongodb",
+        "zfcommons",
+        "dbabstract"
+    ],
+    "homepage": "https://github.com/aaron4m/zf2-mongo",
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zendframework": ">2.2.0rc1",
+        "zf-commons/zfc-base": "dev-master"
+    }
+}
