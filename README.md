@@ -1,4 +1,4 @@
-# Aaron4m - Zf2Mongo
+# Aaron4m - Mongo
 The purpose of this module to create a mongodb mapper that is a straight replacement for the ZFCommons dbAbstract.
 This easily allows you to utilise MongoDb while still easily using entities, hydrators and mappers as well as exposing
 the native php client.
@@ -7,7 +7,7 @@ the native php client.
 Added the following requirement to your projects composer.json file.
 
 ```php
-"aaron4m/zf2-mongo": "dev-master"
+"aaron4m/mongo": "dev-master"
 ```
 
 and run
