@@ -1,5 +1,5 @@
 {
-    "name": "aaron4m/zf2-mongo",
+    "name": "aaron4m/mongo",
     "description": "MongoDB Abstract based on zfCommons",
     "keywords": [
         "framework",
@@ -9,7 +9,7 @@
         "zfcommons",
         "dbabstract"
     ],
-    "homepage": "https://github.com/aaron4m/zf2-mongo",
+    "homepage": "https://github.com/aaron4m/mongo",
     "require": {
         "php": ">=5.3.3",
         "zendframework/zendframework": ">2.2.0rc1",
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Zf2Mongo": "src/"
+            "Mongo": "src/"
         },
         "classmap": [
             "./Module.php"
