@@ -1,5 +1,5 @@
 <?php
-namespace Zf2Mongo\Mapper;
+namespace Mongo\Mapper;
 
 use MongoClient;
 use MongoId;
