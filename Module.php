@@ -1,5 +1,5 @@
 <?php
-namespace Zf2Mongo;
+namespace Mongo;
 
 class Module
 {
