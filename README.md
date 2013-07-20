@@ -7,7 +7,7 @@ the native php client.
 Added the following requirement to your projects composer.json file.
 
 ```php
-"aaron4m/mongo": "dev-master"
+"aaron4m/zf2-mongo": "dev-master"
 ```
 
 and run
